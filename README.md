@@ -7,3 +7,4 @@ usado en la implementación del modelo CS precisa, el software se llama CD HIT
 5. El documento Class Switching consta del workflow seguido para la implementación del modelo
 6. El documento template.csv es el soporte que utiliza el modelo para poder ordenar los atributos por categorías.
 7. El documento modelo.pkl es el modelo obtenido
+Finalmente los documentos en formato csv no se pueden almacenar porque son muy pesados, al igual que el modelo
