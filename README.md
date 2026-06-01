@@ -5,3 +5,5 @@ usado en la implementación del modelo CS precisa, el software se llama CD HIT
 3. El documento en formato py 'predecir' es el construido en terminal para usar con nel modelo y proceder así con cgi-bin
 4. En este caso la predicción, necesita de un documento para que al ser ejecutada el modelo no confunda las etiquetas, este documento es un .csv llamado template.
 5. El documento Class Switching consta del workflow seguido para la implementación del modelo
+6. El documento template.csv es el soporte que utiliza el modelo para poder ordenar los atributos por categorías.
+7. El documento modelo.pkl es el modelo obtenido
